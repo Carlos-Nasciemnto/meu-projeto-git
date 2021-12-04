@@ -23,3 +23,4 @@ Este projeto pode ser colocado em produção usando o Vercel (Sem nenhuma config
 * React
 * Nodejs
 * Tailwindcss
+ 
